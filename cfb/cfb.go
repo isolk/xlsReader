@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/shakinm/xlsReader/helpers"
+	"github.com/isolk/xlsReader/helpers"
 )
 
 // Cfb - Compound File Binary

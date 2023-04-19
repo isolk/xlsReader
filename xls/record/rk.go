@@ -1,8 +1,8 @@
 package record
 
 import (
-	"github.com/shakinm/xlsReader/helpers"
-	"github.com/shakinm/xlsReader/xls/structure"
+	"github.com/isolk/xlsReader/helpers"
+	"github.com/isolk/xlsReader/xls/structure"
 	"reflect"
 )
 

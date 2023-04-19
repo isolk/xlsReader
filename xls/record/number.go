@@ -2,7 +2,7 @@ package record
 
 import (
 	"encoding/binary"
-	"github.com/shakinm/xlsReader/helpers"
+	"github.com/isolk/xlsReader/helpers"
 	"math"
 	"reflect"
 
